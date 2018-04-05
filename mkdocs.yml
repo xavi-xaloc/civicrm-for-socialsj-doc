@@ -1,7 +1,7 @@
 site_name: "CiviCRM per a entitats del sector social dels Jesuïtes de Catalunya"
 site_description: 'Aquesta documentació recull les funcionalitats pròpies de CiviCRM com també les implementades a mida i necessàries per reflectir els processos relacionats amb la gestió de les diferents entitats del sector social dels Jesuïtes de Catalunya.'
 site_author: 'Francesc Bassas i Bullich'
-site_url: http://docs.socialsj.cat
+site_url: http://docs.crm.socialsj.cat
 repo_url: https://github.com/babu-cat/civicrm-for-socialsj-doc
 
 pages:
