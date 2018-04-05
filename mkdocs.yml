@@ -1,0 +1,79 @@
+site_name: "CiviCRM per a entitats del sector social dels Jesuïtes de Catalunya"
+site_description: 'Aquesta documentació recull les funcionalitats pròpies de CiviCRM com també les implementades a mida i necessàries per reflectir els processos relacionats amb la gestió de les diferents entitats del sector social dels Jesuïtes de Catalunya.'
+site_author: 'Francesc Bassas i Bullich'
+site_url: http://docs.socialsj.cat
+repo_url: https://github.com/babu-cat/civicrm-for-socialsj-doc
+
+pages:
+- Introducció: 'index.md'
+- CiviCRM:
+    - 'Què és CiviCRM': 'civicrm/index.md'
+    - 'Contactes': 'civicrm/contactes.md'
+    - 'Activitats': 'civicrm/activitats.md'
+    - 'Relacions': 'civicrm/relacions.md'
+    - 'Grups': 'civicrm/grups.md'
+    - 'Contribucions': 'civicrm/contribucions.md'
+    - 'Preguntes més freqüents': 'civicrm/preguntes-mes-frequents.md'
+- Mòdul infància:
+    - 'Introducció': 'infancia/index.md'
+    - 'Contactes': 'infancia/contactes.md'
+    - 'Activitats': 'infancia/activitats.md'
+    - 'Relacions': 'infancia/relacions.md'
+    - 'Esdeveniments': 'infancia/esdeveniments.md'
+    - 'Grups': 'infancia/grups.md'
+    - 'Contribucions': 'infancia/contribucions.md'
+    - 'Perfils': 'infancia/perfils.md'
+    - 'Permissos': 'infancia/permissos.md'
+    - "Guia d'ús": 'infancia/guia-us.md'
+    - 'Preguntes més freqüents': 'infancia/preguntes-mes-frequents.md'
+- Mòdul adults:
+    - 'Introducció': 'adults/index.md'
+    - 'Contactes': 'adults/contactes.md'
+    - 'Activitats': 'adults/activitats.md'
+    - 'Parella lingüística':
+       - 'Relacions': 'adults/parella-linguistica/relacions.md'
+- Mòdul voluntariat, pràctiques i educació en el lleure:
+    - 'Introducció': 'voluntariat-practiques-educacio-lleure/index.md'
+    - 'Voluntariat':
+       - 'Introducció': 'voluntariat-practiques-educacio-lleure/voluntariat/index.md'
+       - 'Contactes': 'voluntariat-practiques-educacio-lleure/voluntariat/contactes.md'
+       - 'Activitats': 'voluntariat-practiques-educacio-lleure/voluntariat/activitats.md'
+       - 'Relacions': 'voluntariat-practiques-educacio-lleure/voluntariat/relacions.md'
+       - 'Grups': 'voluntariat-practiques-educacio-lleure/voluntariat/grups.md'
+       - 'Formularis': 'voluntariat-practiques-educacio-lleure/voluntariat/formularis.md'
+       - 'Informes': 'voluntariat-practiques-educacio-lleure/voluntariat/informes.md'
+       - 'Esdeveniments': 'voluntariat-practiques-educacio-lleure/voluntariat/esdeveniments.md'
+       - 'Plantilles de missatges': 'voluntariat-practiques-educacio-lleure/voluntariat/plantilles-de-missatges.md'
+       - 'Mailings': 'voluntariat-practiques-educacio-lleure/voluntariat/mailings.md'
+       - "Guia d'ús": 'voluntariat-practiques-educacio-lleure/voluntariat/guia-us.md'
+    - 'Pràctiques': 'voluntariat-practiques-educacio-lleure/practiques/index.md'
+    - 'Educació en el lleure': 'voluntariat-practiques-educacio-lleure/educacio-en-el-lleure/index.md'
+- Mòdul esdeveniments:
+    - 'Introducció': 'esdeveniments/index.md'
+    - 'Preguntes més freqüents': 'esdeveniments/preguntes-mes-frequents.md'
+- Mòdul de comunicació:
+    - 'Introducció': 'comunicacio/index.md'
+    - 'Preguntes més freqüents': 'comunicacio/preguntes-mes-frequents.md'
+- Mòdul Banc d'Aliments:
+    - 'Introducció': 'banc-aliments/index.md'
+- Mòdul Xarxa d'Hospitalitat:
+    - 'Introducció': 'xarxa-hospitalitat/index.md'
+    - "Guia d'ús": 'xarxa-hospitalitat/guia-us.md'
+- Mòdul CIE:
+    - 'Introducció': 'cie/index.md'
+    - 'Contactes': 'cie/contactes.md'
+    - 'Activitats': 'cie/activitats.md'
+    - 'Relacions': 'cie/relacions.md'
+    - 'Grups': 'cie/grups.md'
+    - 'Permisos': 'cie/permisos.md'
+    - 'Perfils': 'cie/perfils.md'
+
+theme:
+  name: material
+  language: ca
+  palette:
+    primary: red
+    accent: red
+  logo:
+    icon: description
+  favicon: favicon.png
