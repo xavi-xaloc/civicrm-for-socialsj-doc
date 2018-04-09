@@ -77,3 +77,4 @@ theme:
   logo:
     icon: description
   favicon: favicon.png
+  google_analytics: ['UA-117203563-1', 'docs.crm.socialsj.cat']
