@@ -77,6 +77,7 @@ theme:
   logo:
     icon: description
   favicon: favicon.png
-  google_analytics:
-    - 'UA-117203563-1'
-    - 'auto'
+
+google_analytics:
+  - 'UA-117203563-1'
+  - 'auto'
