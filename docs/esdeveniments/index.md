@@ -30,6 +30,7 @@ L'estat del participant permet fer un seguiment individual i col·lectiu del pro
 
 - **Inscrit (pagat, gratuït o NA)** - El contacte està inscrit a l'esdeveniment i ha pagat o bé no s'aplica cap import o tarifa en aquesta inscripció.
 - **Inscrit (pendent de pagament)** - El contacte està inscrit a l'esdeveniment però encara ha d'efectuar el pagament corresponent.
+- **Inscrit (parcialment impagat)** - El contacte ha participat a l'esdeveniment però no ha pagat la totalitat de l'import corresponent i ja no s'espera que ho faci.
 - **Inscrit (impagat)** - El contacte ha participat a l'esdeveniment però no ha pagat i ja no s'espera que ho faci.
 - **No mostris** - No es desitja comptabilitzar la inscripció per aquest contacte per exemple en el cas d'un professor o d'un voluntari.
 - **Cancel·lat** - S'ha cancel·lat la inscripció del contacte a l'esdeveniment.
