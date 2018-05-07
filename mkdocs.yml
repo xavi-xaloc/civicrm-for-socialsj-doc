@@ -15,6 +15,7 @@ pages:
     - 'Permissos': 'civicrm/permissos.md'
     - 'Contribucions': 'civicrm/contribucions.md'
     - 'Preguntes més freqüents': 'civicrm/preguntes-mes-frequents.md'
+    - "Annex: Llistat d'idiomes": 'civicrm/annex-idiomes.md'
 - Mòdul infància:
     - 'Introducció': 'infancia/index.md'
     - 'Contactes': 'infancia/contactes.md'

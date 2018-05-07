@@ -109,9 +109,9 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 
     Text
 
-- **Llengua materna**
+- **Llengua materna** -  Vegeu [Documentació - Annex: Llistat d'idiomes](http://docs.crm.socialsj.cat/civicrm/annex-idiomes).
 
-    Selecció múltiple
+    Selecció múltiple - *vegeu [Annex: Llistat d'idiomes](/civicrm/annex-idiomes)*
 
 ### Usuaris adults
 
@@ -159,9 +159,9 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 
     Selecció - Usuari/a bàsic; Usuari/a independent; Usuari/a experimentat
 
-- **Altres idiomes** - Si coneix o domina altres idiomes especifiqueu quins.
+- **Altres idiomes** - Si coneix o domina altres idiomes especifiqueu quins. Vegeu [Documentació - Annex: Llistat d'idiomes](http://docs.crm.socialsj.cat/civicrm/annex-idiomes).
 
-    Selecció múltiple idiomes
+    Selecció múltiple - *vegeu [Annex: Llistat d'idiomes](/civicrm/annex-idiomes)*
 
 ### Adults, Adults - infància, Treballadors, Voluntaris i Estudiants en pràctiques
 
