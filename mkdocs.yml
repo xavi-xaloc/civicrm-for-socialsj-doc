@@ -12,7 +12,7 @@ pages:
     - 'Activitats': 'civicrm/activitats.md'
     - 'Relacions': 'civicrm/relacions.md'
     - 'Grups': 'civicrm/grups.md'
-    - 'Permissos': 'civicrm/permissos.md'
+    - 'Permisos': 'civicrm/permisos.md'
     - 'Contribucions': 'civicrm/contribucions.md'
     - 'Preguntes més freqüents': 'civicrm/preguntes-mes-frequents.md'
     - "Annex: Llistat d'idiomes": 'civicrm/annex-idiomes.md'
@@ -25,7 +25,7 @@ pages:
     - 'Grups': 'infancia/grups.md'
     - 'Contribucions': 'infancia/contribucions.md'
     - 'Perfils': 'infancia/perfils.md'
-    - 'Permissos': 'infancia/permissos.md'
+    - 'Permisos': 'infancia/permisos.md'
     - "Guia d'ús": 'infancia/guia-us.md'
     - 'Preguntes més freqüents': 'infancia/preguntes-mes-frequents.md'
 - Mòdul adults:

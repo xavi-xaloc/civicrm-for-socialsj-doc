@@ -24,7 +24,7 @@ En el següent full de càlcul es defineixen amb més detall els permisos assign
 | CiviCRM: Importar contactes              |            No           |         No         |           Si         | No |
 | CiviCRM: Editar grups                    |            No           |         No         |           Si         | No |
 | CiviCRM: Administrar el CiviCRM          |            No           |         No         |           No         | No |
-| CiviCRM: Accés als arxius pujats        |            Si           |         Si         |           Si         | Si |
+| CiviCRM: Accés als arxius pujats         |            Si           |         Si         |           Si         | Si |
 | CiviCRM: Fitxes de perfil i formularis   |            No           |         No         |           No         | No |
 | CiviCRM: Fitxes de perfil                |            No           |         No         |           No         | No |
 | CiviCRM: Crear un perfil                 |            No           |         No         |           Si         | No |
@@ -84,3 +84,4 @@ En el següent full de càlcul es defineixen amb més detall els permisos assign
 |Tècnic CIE      | Edita detenció i internament       | Edita         | Un conjunt de camps de dades personalitzades | Detenció i internament      |
 |Tècnic CIE      | Edita nacionalitat i documentació  | Edita         | Un conjunt de camps de dades personalitzades | Nacionalitat i documentació |
 |Tècnic CIE      | Gestiona perfil de nou intern CIE  | All           | Un perfil                                    | Nou intern CIE              |
+|Tècnic CIE      | Edita vinculació a programes o departaments de l'entitat | Edita       | Un conjunt de camps de dades personalitzades | Vinculació a programes o departaments de l'entitat

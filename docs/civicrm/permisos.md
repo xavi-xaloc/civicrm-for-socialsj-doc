@@ -1,5 +1,5 @@
 
-| Drupal Permissions                       |     usuari anonim       | usuari autenticat  | tècnic administrador |
+| Permisos de Drupal                       |     usuari anònim       | usuari autenticat  | tècnic administrador |
 |:---------------------------------------- |:-----------------------:|:------------------:|:--------------------:|
 | CiviCRM: Afegeix contactes               |            No           |         No         |           Si         |
 | CiviCRM: Visualitza tots els contactes   |            No           |         No         |           Si         |
@@ -46,15 +46,18 @@
 | CiviEvent: Veure informació dels esdeveniments  |       Si           |         Si         |           Si         |
 | CiviEvent: Veure participants de l'esdeveniment |       Si           |         Si         |           Si         |
 | CiviEvent: Esborra al CiviEvent            |            No           |         No         |           Si         |
-| CiviContribute: Accedi al CiviContribute   |            No           |         No         |           Si         |
+| CiviContribute: Accedeix al CiviContribute |            No           |         No         |           Si         |
 | CiviContribute: Edita contribucions        |            No           |         No         |           Si         |
 | CiviContribute: Fer contribucions online   |            No           |         No         |           No         |
 | CiviContribute: Esborra al CiviContribute  |            No           |         No         |           Si         |
 | CiviMail: Accedeix  al CiviMail            |            No           |         No         |           No         |
 | CiviMail: Accedeix a les pàgines de subscripció/anul·lació de CiviMail|         Si         |        Si        |       Si       |
 | CiviMail: Esborra al CiviMail              |            No           |         No         |           No         |
-| CiviMail: Veure contignut públic al CiviMail|          No           |         No         |           No         |
-| CiviReport: Accedieix al CiviReport         |            No           |         No         |           Si         |
-| CiviReport: Accedieix al Report Criteria    |            No           |         No         |           Si         |
+| CiviMail: Veure contingut públic al CiviMail|          No           |         No         |           No         |
+| CiviReport: Accedeix al CiviReport         |            No           |         No         |           Si         |
+| CiviReport: Accedeix al Report Criteria    |            No           |         No         |           Si         |
 | CiviReport: Administra informes reservats  |            No           |         No         |           Si         |
 | CiviReport: Administra informes            |            No           |         No         |           Si         |
+
+| Rol             | Descripció permís                  | Operació      | Tipus de dades                               | Objecte                     |
+|:----------------|:---------------------------------- |:------------- |:-------------------------------------------- |:--------------------------- |
