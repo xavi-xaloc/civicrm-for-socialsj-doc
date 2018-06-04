@@ -67,7 +67,15 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 
     Selecció - Irregular; Residència i treball temporal; Residència i treball permanent; Residència sense treball (temporal i/o permanent?); Sol·licitant d'asil; Refugiat; Comunitari; Nacionalitat
 
+- **Targeta sanitària**
+
+    Selecció - Regulada; En tramitació; Li falta algun document; No pot sol·licitar-la;
+
 - **Empadronat/da** - Està donat/da d'alta al padró d'algun municipi?
+
+    Resposta Sí/No
+
+- **Document de veïnatge** - (Barcelona) L'ajuntament li ha acreditat el veïnatge a la ciutat?
 
     Resposta Sí/No
 
