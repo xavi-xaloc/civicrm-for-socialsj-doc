@@ -82,6 +82,11 @@ theme:
     icon: description
   favicon: favicon.png
 
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: Enllaç permanent
+
 google_analytics:
   - 'UA-117203563-1'
   - 'auto'
