@@ -16,7 +16,7 @@ pages:
     - 'Contribucions': 'civicrm/contribucions.md'
     - 'Preguntes més freqüents': 'civicrm/preguntes-mes-frequents.md'
     - "Annex: Llistat d'idiomes": 'civicrm/annex-idiomes.md'
-- Mòdul infància:
+- Infància:
     - 'Introducció': 'infancia/index.md'
     - 'Contactes': 'infancia/contactes.md'
     - 'Activitats': 'infancia/activitats.md'
@@ -28,13 +28,13 @@ pages:
     - 'Permisos': 'infancia/permisos.md'
     - "Guia d'ús": 'infancia/guia-us.md'
     - 'Preguntes més freqüents': 'infancia/preguntes-mes-frequents.md'
-- Mòdul adults:
+- Adults:
     - 'Introducció': 'adults/index.md'
     - 'Contactes': 'adults/contactes.md'
     - 'Activitats': 'adults/activitats.md'
     - 'Parella lingüística':
        - 'Relacions': 'adults/parella-linguistica/relacions.md'
-- Mòdul voluntariat, pràctiques i educació en el lleure:
+- Voluntariat, pràctiques i educació en el lleure:
     - 'Introducció': 'voluntariat-practiques-educacio-lleure/index.md'
     - 'Voluntariat':
        - 'Introducció': 'voluntariat-practiques-educacio-lleure/voluntariat/index.md'
@@ -50,18 +50,20 @@ pages:
        - "Guia d'ús": 'voluntariat-practiques-educacio-lleure/voluntariat/guia-us.md'
     - 'Pràctiques': 'voluntariat-practiques-educacio-lleure/practiques/index.md'
     - 'Educació en el lleure': 'voluntariat-practiques-educacio-lleure/educacio-en-el-lleure/index.md'
-- Mòdul esdeveniments:
+- Esdeveniments:
     - 'Introducció': 'esdeveniments/index.md'
     - 'Preguntes més freqüents': 'esdeveniments/preguntes-mes-frequents.md'
-- Mòdul de comunicació:
+- Comunicació:
     - 'Introducció': 'comunicacio/index.md'
     - 'Preguntes més freqüents': 'comunicacio/preguntes-mes-frequents.md'
-- Mòdul Banc d'Aliments:
+- Captació de fons:
+    -'Introducció': 'captacio-de-fons/index.md'
+- Banc d'Aliments:
     - 'Introducció': 'banc-aliments/index.md'
-- Mòdul Xarxa d'Hospitalitat:
+- Xarxa d'Hospitalitat:
     - 'Introducció': 'xarxa-hospitalitat/index.md'
     - "Guia d'ús": 'xarxa-hospitalitat/guia-us.md'
-- Mòdul CIE:
+- CIE:
     - 'Introducció': 'cie/index.md'
     - 'Contactes': 'cie/contactes.md'
     - 'Activitats': 'cie/activitats.md'
