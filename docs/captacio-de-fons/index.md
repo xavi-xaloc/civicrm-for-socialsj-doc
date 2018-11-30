@@ -28,7 +28,7 @@ Els socis es defineixen al CiviCRM mitjançant les pertinences.
     Quan avancem en l'automatització de les domiciliacions definirem amb més
     precisió les pertinences. Per ara només ens hem de preocupar de crear-les
     i cancel·lar-les quan s'escaigui per reflectir l'estat dels socis (actual i
-    històric de l'entitat).
+    històric) de l'entitat.
 
 L'alta de socis nous es pot produir per dues vies:
 
