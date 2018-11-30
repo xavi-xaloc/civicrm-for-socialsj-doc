@@ -24,7 +24,8 @@ de socis i contribucions recurrents.
 Els socis es defineixen al CiviCRM mitjançant les pertinences.
 
     NOTA - Quan avancem en l'automatització de les domiciliacions definirem
-    amb més precissió les pertinences. Per ara només ens hem de preocupar de crear-les i cancel·lar-les quan s'escaigui per reflectir l'estat dels socis (actual i
+    amb més precissió les pertinences. Per ara només ens hem de preocupar de crear-les
+    i cancel·lar-les quan s'escaigui per reflectir l'estat dels socis (actual i
     històric de l'entitat).
 
 L'alta de socis nous es pot produir per dues vies:
@@ -33,7 +34,8 @@ L'alta de socis nous es pot produir per dues vies:
 es dona d'alta i es genera un registre al CRM amb la seva corresponent pertinença.
 
     NOTA - Actualment quan un soci es dona d'alta a través de la web es crea un
-    contacte al CRM amb les seves dades i una contribució amb estat pendent i tipus financer quota de pertinença. Cal afegir manualment la pertinença com a soci de
+    contacte al CRM amb les seves dades i una contribució amb estat pendent i tipus
+    financer quota de pertinença. Cal afegir manualment la pertinença com a soci de
     l'entitat.
 
 **Manual** per la qual es crea el contacte en el CRM directament i se li afegeix
