@@ -32,7 +32,7 @@ Els socis es defineixen al CiviCRM mitjançant les pertinences.
 
 L'alta de socis nous es pot produir per dues vies:
 
-**En línia** per la qual és el mateix soci que mitjançant el formulari de la web
+- **En línia** per la qual és el mateix soci que mitjançant el formulari de la web
 es dona d'alta i es genera un registre al CRM amb la seva corresponent pertinença.
 
 !!! attention "Atenció"
@@ -41,7 +41,7 @@ es dona d'alta i es genera un registre al CRM amb la seva corresponent pertinen�
     financer quota de pertinença. Cal afegir manualment la pertinença com a soci
     de l'entitat.
 
-**Manual** per la qual es crea el contacte en el CRM directament i se li afegeix
+- **Manual** per la qual es crea el contacte en el CRM directament i se li afegeix
 la pertinença com a soci.
 
 ##### Revisió de contactes duplicats
