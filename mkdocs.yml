@@ -85,7 +85,7 @@ theme:
 markdown_extensions:
   - admonition
   - toc:
-      permalink: Enllaç permanent
+      permalink: true
 
 google_analytics:
   - 'UA-117203563-1'

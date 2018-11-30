@@ -57,7 +57,7 @@ la possible combinació de contactes duplicats quan es doni el cas.
 
 #### Generació de contribucions anuals de socis
 
-**Manual**
+##### Manual
 
 Si volem generar una contribució corresponent a la quota de soci d'un contacte
 hem d'afegir una contribució amb **tipus financer** 'Quotes de pertinences', definir
@@ -65,7 +65,7 @@ la **data de recepció** prevista, l'**import** de la contribució en qüestió 
 **mètode de pagament** 'Domiciliació bancària' a la vegada que definirem l'**estat
 de la contribució** actual bé sigui 'Pendent' o bé 'Completat'.
 
-**En lots**
+##### En lots
 
 Per tal d'agilitzar l'entrada de les contribucions recurrents vinculades als socis
 ens podem valer de l'eina d'**Importació de contribucions** que ens proporciona
