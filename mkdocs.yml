@@ -57,7 +57,8 @@ pages:
     - 'Introducció': 'comunicacio/index.md'
     - 'Preguntes més freqüents': 'comunicacio/preguntes-mes-frequents.md'
 - Captació de fons:
-    - 'Introducció': 'captacio-de-fons/index.md'
+    - "Guia d'ús": 'captacio-de-fons/guia-us.md'
+    - "Conceptes clau": 'captacio-de-fons/conceptes-clau.md'
 - Banc d'Aliments:
     - 'Introducció': 'banc-aliments/index.md'
 - Xarxa d'Hospitalitat:

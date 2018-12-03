@@ -1,8 +1,6 @@
-# Captació de fons
+# Guia d'ús
 
-## Guia d'ús
-
-### Gestió de socis i contribucions recurrents
+## Gestió de socis i contribucions recurrents
 
 !!! note "Nota"
     En un futur no gaire llunyà es té previst automatitzar alguns dels processos
@@ -20,7 +18,7 @@ Per això el CiviCRM ofereix algunes eines que ens poden ajudar a facilitar aque
 gestió. A continuació descriurem alguns dels processos previstos per a la gestió
 de socis i contribucions recurrents.
 
-#### Alta de socis nous
+### Alta de socis nous
 
 Els socis es defineixen al CiviCRM mitjançant les pertinences.
 
@@ -44,20 +42,20 @@ es dona d'alta i es genera un registre al CRM amb la seva corresponent pertinen�
 - **Manual** per la qual es crea el contacte en el CRM directament i se li afegeix
 la pertinença com a soci.
 
-##### Revisió de contactes duplicats
+#### Revisió de contactes duplicats
 
 Quan es produeix una alta de soci a través d'un formulari de la web el CRM sempre
 genera un contacte nou amb l'ànim de no trepitjar mai cap dada existent al CRM
 i delegant en una posterior revisió la verificació de les dades introduïdes i
 la possible combinació de contactes duplicats quan es doni el cas.
 
-#### Baixa de socis
+### Baixa de socis
 
 > PENDENT DE DOCUMENTAR
 
-#### Generació de contribucions anuals de socis
+### Generació de contribucions anuals de socis
 
-##### Manual
+#### Manual
 
 Si volem generar una contribució corresponent a la quota de soci d'un contacte
 hem d'afegir una contribució amb **tipus financer** 'Quotes de pertinences', definir
@@ -65,7 +63,7 @@ la **data de recepció** prevista, l'**import** de la contribució en qüestió 
 **mètode de pagament** 'Domiciliació bancària' a la vegada que definirem l'**estat
 de la contribució** actual bé sigui 'Pendent' o bé 'Completat'.
 
-##### En lots
+#### En lots
 
 Per tal d'agilitzar l'entrada de les contribucions recurrents vinculades als socis
 ens podem valer de l'eina d'**Importació de contribucions** que ens proporciona
@@ -83,7 +81,8 @@ Per importar les contribucions ens caldrà un fitxer CSV amb les següents colum
 - **Data de recepció**
 - **Estat de la contribució** - valors possibles: *Completed* i *Pending*
 - **Tipus financer** - valor per defecte: *Quotes de pertinences*
-- **Mètode de pagament** - valor per defecte: *Domiciliació bancària*
+- **Mètode de pagament** - valor per defecte: *Domiciliación bancaria*
+- **És un pagament diferit** - valor per defecte: *1* (sí)
 
 Un cop tinguem el fitxer CSV amb les contribucions a importar ja podrem procedir
 amb la importació de les contribucions.
@@ -92,7 +91,7 @@ amb la importació de les contribucions.
 en el CiviCRM](https://docs.civicrm.org/user/ca/latest/common-workflows/importing-data-into-civicrm/) per a més informació de com importar contribucions al CRM.
 
 
-#### Actualització d'estat de contribucions en bloc
+### Actualització d'estat de contribucions en bloc
 
 Els pagaments de les contribucions de socis programades i registrades com a pendents
 es poden anar actualitzant a mesura que es vagin rebent. Normalment farem
@@ -106,16 +105,3 @@ contribucions de **tipus financer** 'Quotes de pertinences' amb **data de recepc
 l'acció **Actualitza l'estat de les contribucions pendents**.
 
 > Vegeu [CiviCRM - Guia de l'usuari > Contribucions > Cerca i visualització de contribucions](https://docs.civicrm.org/user/ca/latest/contributions/finding-and-viewing-contributions/) per a més informació de com actualitzar l'estat de les contribucions pendents.
-
-## Conceptes clau
-
-### Tipus financers
-
-> Vegeu informació sobre els tipus financers a [CiviCRM - Guia de l'usuari > Contribucions > Conceptes claus i configuracions](https://docs.civicrm.org/user/ca/latest/contributions/key-concepts-and-configurations/#tipus-financers).
-
-- Donatius
-- Quotes de pertinences
-
-### Estats de contribució
-
-> Vegeu informació sobre els estats de contribució a [CiviCRM > Contribucions](/civicrm/contribucions/#estats-de-pagament).
