@@ -61,9 +61,8 @@ pages:
     - "Conceptes clau": 'captacio-de-fons/conceptes-clau.md'
 - Banc d'Aliments:
     - 'Introducció': 'banc-aliments/index.md'
-- Xarxa d'Hospitalitat:
-    - 'Introducció': 'xarxa-hospitalitat/index.md'
-    - "Guia d'ús": 'xarxa-hospitalitat/guia-us.md'
+- Gent gran:
+    - 'Introducció': 'gent-gran/index.md'
 - CIE:
     - 'Introducció': 'cie/index.md'
     - 'Contactes': 'cie/contactes.md'
@@ -72,6 +71,9 @@ pages:
     - 'Grups': 'cie/grups.md'
     - 'Permisos': 'cie/permisos.md'
     - 'Perfils': 'cie/perfils.md'
+- Xarxa d'Hospitalitat:
+    - 'Introducció': 'xarxa-hospitalitat/index.md'
+    - "Guia d'ús": 'xarxa-hospitalitat/guia-us.md'
 
 theme:
   name: material
