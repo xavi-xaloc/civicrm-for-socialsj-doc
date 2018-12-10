@@ -16,15 +16,15 @@ Dependències amb d'altres mòduls:
 
 - **Condicions de la persona gran i del seu domicili**
     - **Mobilitat de la persona gran**
-      Selecció - Autònoma; Bastó; Cadira de rodes; Crosses; Altres;
+        Selecció - Autònoma; Bastó; Cadira de rodes; Crosses; Altres;
     - **Mobilitat de la persona gran - Observacions** - Especifiqueu si cal altres observacions a tenir en compte pel que fa als problemes de mobilitat de la persona gran.
-      Resposta oberta
+        Resposta oberta
     - **Disposa d'ascensor** - Indiqueu si el domicili de la persona gran disposa d'ascensor.
-      Resposta Sí/No
+        Resposta Sí/No
     - **Tipus d'ascensor** - Si el domicili disposa d'ascensor especifiqueu-ne el tipus: a planta o a mitja planta (cal pujar o baixar escales per acabar d'accedir-hi).
-      Selecció -  A planta; A mitja planta;
+        Selecció -  A planta; A mitja planta;
     - **Altres factors a tenir en compte** -  Especifiqueu factors de la persona o del seu domicili que val la pena tenir en compte. Per exemple: està afectada de sordesa o ceguesa? en quin grau?, etc.
-      Resposta oberta
+        Resposta oberta
 
 #### Voluntari
 
@@ -53,9 +53,9 @@ Dependències amb d'altres mòduls:
 - **Detalls de la relació d'acompanyament a domicili a gent gran**
 
     - **Tipus de servei**
-      Selecció múltiple - Passeig; Companyia a casa; Visita a residència; Acompanyament als tallers;
+        Selecció múltiple - Passeig; Companyia a casa; Visita a residència; Acompanyament als tallers;
     - **Calendari i horaris de l'acompanyament**
-      Resposta oberta
+        Resposta oberta
 
 
 ### Relació de voluntariat
