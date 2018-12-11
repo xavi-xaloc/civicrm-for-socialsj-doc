@@ -99,9 +99,13 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 
 ### Usuaris
 
+> Persones migrants
+
 > Infants / Joves i Adults infància del [mòdul infància](/infancia).
 
 > Adults del [mòdul adults](/adults).
+
+> Persones grans del [mòdul gent gran](/gent-gran)
 
 #### Perfil demogràfic usuari/ària
 

@@ -14,6 +14,8 @@ Dependències amb d'altres mòduls:
 
 **Camps personalitzats**
 
+> Vegeu més informació sobre els camps personalitzats de les persones usuàries a [CiviCRM > Contactes](/civicrm/contactes/#usuaris).
+
 - **Condicions de la persona gran i del seu domicili**
 
     - **Mobilitat de la persona gran**
