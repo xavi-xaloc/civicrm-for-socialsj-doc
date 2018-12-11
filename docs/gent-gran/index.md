@@ -10,7 +10,7 @@ Dependències amb d'altres mòduls:
 
 ### Persones
 
-#### Gent gran
+#### Persona gran
 
 **Camps personalitzats**
 
@@ -47,6 +47,7 @@ Dependències amb d'altres mòduls:
 #### Camps personalitzats - Seguiment gent gran
 
 * **Observacions**
+
     Resposta oberta
 
 ## Relacions
@@ -54,7 +55,7 @@ Dependències amb d'altres mòduls:
 ### Relació d'acompanyament a domicili a gent gran
 
 - Contacte A: Voluntari
-- Contacte B: Persona
+- Contacte B: Persona gran
 - Relació A>B: acompanya a domicili a
 - Relació B>A: rep acompanyament a domicili per
 
