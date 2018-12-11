@@ -44,11 +44,13 @@ Dependències amb d'altres mòduls:
 
 ### [Gent gran] Seguiment
 
-#### Camps personalitzats - Seguiment gent gran
+#### Camps personalitzats
 
-* **Observacions**
+- **Seguiment gent gran**
 
-    Resposta oberta
+    - **Observacions**
+
+        Resposta oberta
 
 ## Relacions
 
