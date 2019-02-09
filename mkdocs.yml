@@ -72,7 +72,7 @@ pages:
     - 'Permisos': 'cie/permisos.md'
     - 'Perfils': 'cie/perfils.md'
 - Xarxa d'Hospitalitat:
-    - 'Introducció': 'xarxa-hospitalitat/index.md'
+    - 'Definició': 'xarxa-hospitalitat/definicio.md'
     - "Guia d'ús": 'xarxa-hospitalitat/guia-us.md'
 
 theme:
