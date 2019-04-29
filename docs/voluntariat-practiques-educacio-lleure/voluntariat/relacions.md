@@ -59,3 +59,15 @@ Relació de voluntariat entre un voluntari/ària i l'organització
 * **Motius i detalls de la desvinculació** - Un cop finalitzada la relació de voluntariat amb l'organització, recollir si s'escau en aquest camp els motius i detalls d'aquesta.
 
     Resposta oberta
+
+### Camps personalitzats - Voluntariat ApS
+
+Voluntariat emmarcat dins dels programes d'Aprenentatge-Servei promoguts des dels centres educatius.
+
+* **ApS** - El voluntariat s'emmarca dins d'un programa d'Aprenentatge-Servei?
+
+    Resposta Sí/No
+
+* **Centre educatiu** - Centre educatiu de provinença de la persona voluntària
+
+    Organització de referència
