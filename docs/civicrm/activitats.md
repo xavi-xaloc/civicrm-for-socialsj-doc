@@ -51,7 +51,7 @@ Afegim un nou estat d'activitat que ens permeti marcar una activitat com a pende
 
 ### Activitats vinculades als programes o departaments de l'entitat
 
-#### Vinculació a programes o departaments de l'entitat
+#### Vinculació a programes o departaments de l'entitat (activitats)
 
 - **Programa o departament** - Programa o departament al qual queda vinculada l'activitat.
 

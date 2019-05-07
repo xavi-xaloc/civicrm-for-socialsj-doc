@@ -128,25 +128,7 @@ Registre d'una activitat de seguiment a una persona voluntària.
 
 ## Registre de situació laboral
 
-### Camps personalitzats - Situació laboral registrada
-
-* Situació laboral
-
-    * Ocupats: Són les persones de 16 o més anys que durant la setmana de referència, han estat treballant - al menys durant una hora- per compte aliè (assalariats) o han exercit una activitat per compte propi.
-
-    * Aturats: Es consideren aturades, les persones de 16 o més anys que durant la setmana de referència han estat sense treball, estan disponibles per treballar i estan cercant activament treball.
-
-    * Inactius: Abasta a les persones de 16 o més anys no classificades com ocupades o aturades durant la setmana de referència. Comprèn les següents categories: Persones que s'ocupen de la seva llar, estudiants, jubilats o retirats, altres pensionistes, incapacitats per treballar i altres situacions."
-
-    Selecció - Ocupat; Aturat; Inactiu.
-
-* CV
-
-    Fitxer	 
-
-* Observacions situació laboral
-
-    Resposta oberta
+> Vegeu [CiviCRM > Activitats > Registre de situació laboral](/civicrm/activitats/#registre-de-situacio-laboral).
 
 ### Estats
 

@@ -1,5 +1,17 @@
+# Permisos
 
-| Permisos de Drupal                       |     usuari anònim       | usuari autenticat  | tècnic administrador |
+El CiviCRM permet definir diferents nivells d'accés a les dades pels diferents tipus d'usuaris que l'han d'utilitzar. Aquests diferents nivells d'accés es corresponen a diferents rols que s'assignen a uns grups d'usuaris.
+
+En aquesta pàgina definim els permisos globals tant a nivell de Drupal com de CiviCRM
+i la resta de permisos queden definits en els respectius mòduls.
+
+## Rols
+
+Rol **tècnic administrador** El tècnic administrador té la capacitat de fer qualsevol acció i visualitzar totes les dades de la plataforma exceptuant aquelles estrictament relacionades amb la configuració i administració del CiviCRM.
+
+## Permisos Drupal
+
+|                                          |     usuari anònim       | usuari autenticat  | tècnic administrador |
 |:---------------------------------------- |:-----------------------:|:------------------:|:--------------------:|
 | CiviCRM: Afegeix contactes               |            No           |         No         |           Si         |
 | CiviCRM: Visualitza tots els contactes   |            No           |         No         |           Si         |
@@ -58,6 +70,8 @@
 | CiviReport: Accedeix al Report Criteria    |            No           |         No         |           Si         |
 | CiviReport: Administra informes reservats  |            No           |         No         |           Si         |
 | CiviReport: Administra informes            |            No           |         No         |           Si         |
+
+## Permisos CiviCRM
 
 | Rol             | Descripció permís                  | Operació      | Tipus de dades                               | Objecte                     |
 |:----------------|:---------------------------------- |:------------- |:-------------------------------------------- |:--------------------------- |

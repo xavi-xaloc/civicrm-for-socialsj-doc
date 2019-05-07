@@ -130,7 +130,7 @@ A part d'aquestes relacions preestablertes en definirem unes de noves que ens pe
 
 ### Relacions vinculades als programes o departaments de l'entitat
 
-#### Vinculació a un programa o departament de l'entitat
+#### Vinculació a un programa o departament de l'entitat (relacions)
 
 - **Programa o departament** - Programa o departament al qual queda vinculada la relació.
 

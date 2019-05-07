@@ -197,16 +197,6 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 
     Àrea de text
 
-### Nous contactes
-
-> Adults del [mòdul adults](/adults).
-
-> Voluntaris del [mòdul voluntaris i estudiants en pràctiques](/voluntaris-i-estudiants).
-
-- **Procedència** - Com ens has conegut?
-
-    Selecció - Algú vinculat a l'entitat; Internet; Xarxes socials; Mitjans de comunicació; Altres
-
 ### Organització
 
 #### Documentació organitzacions
