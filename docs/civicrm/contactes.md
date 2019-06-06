@@ -53,11 +53,15 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 
 - **Any d'arribada Espanya** - Especifiqueu quin any va arribar a Espanya.
 
-    Data	 
+    Data (any i mes)
 
 - **Any d'arribada Catalunya** - Especifiqueu quin any va arribar a Catalunya.
 
-    Data
+    Data (any i mes)
+
+- **Recorregut migratori**
+
+    Àrea de text
 
 - **Alfabetització llatina** - Coneix l'alfabet llatí?
 
@@ -65,7 +69,7 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 
 - **Situació administrativa**
 
-    Selecció - Irregular; Residència i treball temporal; Residència i treball permanent; Residència sense treball (temporal i/o permanent?); Sol·licitant d'asil; Refugiat; Comunitari; Nacionalitat
+    Selecció - Irregular; Residència i treball temporal; Residència i treball permanent; Residència sense treball (temporal i/o permanent?); Sol·licitant d'asil; Refugiat; Comunitari; Nacionalitat;
 
 - **Targeta sanitària**
 
