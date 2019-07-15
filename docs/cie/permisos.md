@@ -77,11 +77,17 @@ En el següent full de càlcul es defineixen amb més detall els permisos assign
 
 | Rol            |     Descripció permís              | Operació      | Tipus de dades                               | Objecte                     |
 |:---------------|:---------------------------------- |:------------- |:-------------------------------------------- |:--------------------------- |
-|Tècnic CIE      | Edita Programa CIEs                | Edita         | Un grup de contactes                         | Interns CIE                 |
+|Tècnic CIE      | Edita Interns CIE (via Perfil)     | Edita         | Un grup de contactes                         | Interns CIE via perfil (Control d'accés) |
+|Tècnic CIE      | Edita Interns CIE - actius         | Edita         | Un grup de contactes                         | Interns CIE - actius        |
+|Tècnic CIE      | Edita Interns CIE - històric       | Edita         | Un grup de contactes                         | Interns CIE - històric      |
+|Tècnic CIE      | Edita Voluntaris visites CIE - històric | Edita    | Un grup de contactes                         | Voluntaris visites CIE - històric |
+|Tècnic CIE      | Edita Voluntaris visites CIE       | Edita         | Un grup de contactes                         | Voluntaris visites CIE      |
+|Tècnic CIE      | Edita CIEs                         | Edita         | Un grup de contactes                         | CIEs                        |
+|Tècnic CIE      | Edita #Visites CIE                 | Edita         | Un grup de contactes                         | #Visites CIE                 |
 |Tècnic CIE      | Edita visites CIE                  | Edita         | Un conjunt de camps de dades personalitzades | Visites CIE                 |
 |Tècnic CIE      | Edita visites grupals              | Edita         | Un conjunt de camps de dades personalitzades | Visites grupals             |
 |Tècnic CIE      | Edita entrada i arrelament         | Edita         | Un conjunt de camps de dades personalitzades | Entrada i arrelament        |
 |Tècnic CIE      | Edita detenció i internament       | Edita         | Un conjunt de camps de dades personalitzades | Detenció i internament      |
 |Tècnic CIE      | Edita nacionalitat i documentació  | Edita         | Un conjunt de camps de dades personalitzades | Nacionalitat i documentació |
+|Tècnic CIE      | Edita vinculació a programes o departaments de l'entitat | Edita       | Un conjunt de camps de dades personalitzades | Vinculació a programes o departaments de l'entitat |
 |Tècnic CIE      | Gestiona perfil de nou intern CIE  | All           | Un perfil                                    | Nou intern CIE              |
-|Tècnic CIE      | Edita vinculació a programes o departaments de l'entitat | Edita       | Un conjunt de camps de dades personalitzades | Vinculació a programes o departaments de l'entitat

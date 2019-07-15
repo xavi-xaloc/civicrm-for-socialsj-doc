@@ -7,3 +7,4 @@ En el nostre cas ens interessa dotar els usuaris amb el rol tècnic CIE de la po
 ## Perfils per la creació de contactes
 
 - **Nou intern CIE**
+  Els usuaris afegits mitjançant aquest perfil seran incorporats al grup *Interns CIE via perfil (Control d'acces)* per permetre el control d'accés als tècnics CIE.
