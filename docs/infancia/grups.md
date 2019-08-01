@@ -38,4 +38,4 @@ Aquests grups els podem encabir dins d'un grup pare corresponent al curs, p.ex. 
   - **Infants / Joves via perfil (Control d'accés):** contactes infants / joves afegits per tècnics infància a través de perfils i necessaris per permetre l'accés immediat per ACL un cop creats.
   - **Adults-infància via perfil (Control d'acés):** contactes adults-infància afegits per tècnics infància a través de perfils i necessaris per permetre l'accés immediat per ACL un cop creats.
   - **Contactes infància via perfil (Control d'accés):** contactes infància afegits per tècnics infància a través de perfils i necessaris per permetre l'accés immediat per ACL un cop creats.
-  - **Unitats familiars i de convivència (Control d'accés):** contactes unitats familiars de convivència afegits per tècnics infància a través de perfils i necessaris per permetre l'accés immediat per ACL un cop creats.
+  - **Unitats familiars i de convivència via perfil (Control d'accés):** contactes unitats familiars de convivència afegits per tècnics infància a través de perfils i necessaris per permetre l'accés immediat per ACL un cop creats.
