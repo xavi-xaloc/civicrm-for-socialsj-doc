@@ -60,6 +60,7 @@ pages:
 - Captació de fons:
     - "Guia d'ús": 'captacio-de-fons/guia-us.md'
     - "Conceptes clau": 'captacio-de-fons/conceptes-clau.md'
+    - "StockCrowd (EN DESENVOLUPAMENT)": 'captacio-de-fons/stockcrowd.md'
 - Banc d'Aliments:
     - 'Introducció': 'banc-aliments/index.md'
 - Gent gran:
