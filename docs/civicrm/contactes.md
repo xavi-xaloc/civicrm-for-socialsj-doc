@@ -79,6 +79,10 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 
     Resposta Sí/No
 
+- **Data primer empadronament** - Data del primer empadronament a algun municipi d'Espanya
+
+    Data
+
 - **Document de veïnatge** - (Barcelona) L'ajuntament li ha acreditat el veïnatge a la ciutat?
 
     Resposta Sí/No
