@@ -36,7 +36,7 @@ es dona d'alta i es genera un registre al CRM amb la seva corresponent pertinen�
 !!! attention "Atenció"
     Actualment quan un soci es dona d'alta a través de la web es crea un contacte
     al CRM amb les seves dades i una contribució amb estat pendent i tipus
-    financer quota de pertinença. Cal afegir manualment la pertinença com a soci
+    financer corresponent. Cal afegir manualment la pertinença com a soci
     de l'entitat.
 
 - **Manual** per la qual es crea el contacte en el CRM directament i se li afegeix
@@ -58,9 +58,9 @@ la possible combinació de contactes duplicats quan es doni el cas.
 #### Manual
 
 Si volem generar una contribució corresponent a la quota de soci d'un contacte
-hem d'afegir una contribució amb **tipus financer** 'Quotes de pertinences', definir
+hem d'afegir una contribució amb **tipus financer** corresponent, definir
 la **data de recepció** prevista, l'**import** de la contribució en qüestió i el
-**mètode de pagament** 'Domiciliació bancària' a la vegada que definirem l'**estat
+**mètode de pagament** corresponent a la vegada que definirem l'**estat
 de la contribució** actual bé sigui 'Pendent' o bé 'Completat'.
 
 #### En lots
@@ -80,8 +80,8 @@ Per importar les contribucions ens caldrà un fitxer CSV amb les següents colum
 - **Import total**
 - **Data de recepció**
 - **Estat de la contribució** - valors possibles: *Completed* i *Pending*
-- **Tipus financer** - valor per defecte: *Quotes de pertinences*
-- **Mètode de pagament** - valor per defecte: *Domiciliación bancaria*
+- **Tipus financer** - valor per defecte: *El tipus financer corresponent tal com apareix al CRM*
+- **Mètode de pagament** - valor per defecte: *El nom del mètode de pagament corresponent (normalment de tipus domiciliació) tal com apareix al CRM*
 - **És un pagament diferit** - valor per defecte: *1* (sí)
 
 Un cop tinguem el fitxer CSV amb les contribucions a importar ja podrem procedir
@@ -101,7 +101,7 @@ contribució a contribució el CRM ofereix una eina per poder fer aquesta acció
 bloc.
 
 Per fer-ho ens cal cercar les contribucions que volem actualitzar (per exemple les
-contribucions de **tipus financer** 'Quotes de pertinences' amb **data de recepció** 'El mes actual' i amb **estat de la contribució** 'Pendent') i utilitzar
+contribucions de **tipus financer** corresponent amb **data de recepció** 'El mes actual' i amb **estat de la contribució** 'Pendent') i utilitzar
 l'acció **Actualitza l'estat de les contribucions pendents**.
 
 > Vegeu [CiviCRM - Guia de l'usuari > Contribucions > Cerca i visualització de contribucions](https://docs.civicrm.org/user/ca/latest/contributions/finding-and-viewing-contributions/) per a més informació de com actualitzar l'estat de les contribucions pendents.
