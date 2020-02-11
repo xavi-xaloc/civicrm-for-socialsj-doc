@@ -41,6 +41,11 @@ L'estat del participant permet fer un seguiment individual i col·lectiu del pro
 - **Pendent de reembossament** - El contacte és baixa o vol cancel·lar la inscripció a l'esdeveniment i està pendent de rebre el reembossament corresponent.
 - **Transferit** - El contacte ha cedit la seva inscripció a un altre contacte.
 - **Pendent al cistell** - En el cas de tenir habilitada l'opció d'inscripcions per cistell de la compra (per defecte es troba deshabilitada) aquest estat indica que el contacte ha afegit la inscripció a l'esdeveniment al cistell.
+- **Convidat** - El contacte ha estat convidat a participar de l'esdeveniment.
+- **No vindrà** - El contacte ha manifestat que no podrà participar a l'esdeveniment.
+- **Confirmat** - El contacte ha manifestat la seva participació a l'esdeveniment.
+- **Assistit** - El contacte ha participat a l'esdeveniment.
+- **No ha assistit** - El contacte no ha participat a l'esdeveniment.
 
 Els següents estats de participant tan sols tenen sentit quan intervé un processador de pagament en el procés d'inscripció.
 
