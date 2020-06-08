@@ -44,7 +44,7 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 
 - **Observacions** - Si ho creieu oportú podeu afegir alguna observació que ajudi a complementar els camps anteriors.
 
-    Àrea de text	 
+    Àrea de text
 
 ### Persona migrant
 
@@ -104,6 +104,14 @@ Per defecte es distingeixen els contactes en tres tipus bàsics: **persona**, **
 - **Tipus de professional**
 
     Casella de selecció - psicòleg/loga; psicopedagog/a; treballador/a social; educador/a social; inspector/a d'ensenyament; logopeda; psiquiatra; pediatra
+
+### Treballador
+
+#### Dades del treballador
+
+- **Número d'afiliació a la Seguretat Social**
+
+    Text
 
 ### Usuaris
 
