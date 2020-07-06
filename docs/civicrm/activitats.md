@@ -23,7 +23,9 @@ Afegim un nou estat d'activitat que ens permeti marcar una activitat com a pende
 
 - **Canvi d'adreça: *** Registre d'un canvi d'adreça d'un contacte.
 
-- **Coordinació [gestió i administració]: *** - Coordinació amb un contacte amb contingut sensible o privat només accessible per a perfils administradors.
+- **Col·laboració esporàdica:**  Registre d'una col·laboració esporàdica amb algun voluntari, tallerista o professional que fa alguna xerrada, taller o altre activitat no directament relacionada amb els projectes i cursos de l'entitat.
+
+- **Coordinació [gestió i administració]: *** Coordinació amb un contacte amb contingut sensible o privat només accessible per a perfils administradors.
 
 ## Activitats amb usuaris
 
