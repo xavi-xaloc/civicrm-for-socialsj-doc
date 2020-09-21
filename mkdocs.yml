@@ -83,8 +83,8 @@ theme:
   palette:
     primary: red
     accent: red
-  logo:
-    icon: description
+  icon:
+    logo: fontawesome/regular/file-alt
   favicon: favicon.png
 
 markdown_extensions:
