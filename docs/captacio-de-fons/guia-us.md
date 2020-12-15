@@ -105,3 +105,19 @@ contribucions de **tipus financer** corresponent amb **data de recepció** 'El m
 l'acció **Actualitza l'estat de les contribucions pendents**.
 
 > Vegeu [CiviCRM - Guia de l'usuari > Contribucions > Cerca i visualització de contribucions](https://docs.civicrm.org/user/ca/latest/contributions/finding-and-viewing-contributions/) per a més informació de com actualitzar l'estat de les contribucions pendents.
+
+## Gestió de donatius en espècie
+
+Per tal d'identificar tots aquells contactes que sense fer una aportació directa sí que col·laboren amb l'entitat amb altres tipus d'aportacions considerades donacions en espècie, podrem registrar contribucions d'aquest tipus i posteriorment identificar-les.
+
+### Registre de contribució en espècie
+
+Des del contacte que fa l'aportació, crearem una nova contribució on especificarem almenys els següents camps:
+
+- **Tipus financer:** "Donatius en espècie"
+- **Import** (el corresponent al valor de l'aportació)
+- **Estat de la contribució:** "Completat"
+- **Data de recepció**
+- **Mètode de pagament:** "En espècie"
+- **Preferències fiscals** indicar (si es sap) si demana o no desgravar el donatiu
+- **Detalls agència tributària** indicar si no es vol declarar en el Model 182 l'aportació realitzada.

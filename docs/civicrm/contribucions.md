@@ -21,3 +21,7 @@ o **(2)** *si són contribucions que ja no requereixen cap més acció i per tan
 - **Fallit** - El processador de pagament ha retornat un error en processar el pagament de la contribució.
 - **Reembossat** - Devolució del pagament de la contribució per part de l'organització.
 - **Retrocedit** - Retrocés de la transacció del pagament de la contribució per part de l'entitat emissora de la targeta.
+
+## Mètodes de pagament
+
+- **En espècie**

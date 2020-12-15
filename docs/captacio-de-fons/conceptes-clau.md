@@ -6,7 +6,12 @@
 
 - Donatius
 - Quotes de pertinences
+- Donatius en espècie
 
 ## Estats de contribució
 
 > Vegeu informació sobre els estats de contribució a [CiviCRM > Contribucions](/civicrm/contribucions/#estats-de-contribucio).
+
+## Mètodes de pagament
+
+> Vegeu informació sobre els mètodes de pagament a [CiviCRM > Contribucions](/civicrm/contribucions/#metodes-de-pagament).
