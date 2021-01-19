@@ -87,6 +87,12 @@ Per importar les contribucions ens caldrà un fitxer CSV amb les següents colum
 Un cop tinguem el fitxer CSV amb les contribucions a importar ja podrem procedir
 amb la importació de les contribucions.
 
+!!! info
+    Només es poden importar contribucions de contactes del mateix tipus. És a dir,
+    si volem importar contribucions de persones i organitzacions ho haurem de fer en
+    dos importacions diferents i per tant també amb dos fitxers diferents, un per les
+    contribucions de persones i l'altre per les de les organitzacions.
+
 > Vegeu [CiviCRM - Guia de l'usuari > Fluxos de treball comuns > Importació de dades
 en el CiviCRM](https://docs.civicrm.org/user/ca/latest/common-workflows/importing-data-into-civicrm/) per a més informació de com importar contribucions al CRM.
 
