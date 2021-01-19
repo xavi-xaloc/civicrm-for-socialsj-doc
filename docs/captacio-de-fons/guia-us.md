@@ -87,7 +87,7 @@ Per importar les contribucions ens caldrà un fitxer CSV amb les següents colum
 Un cop tinguem el fitxer CSV amb les contribucions a importar ja podrem procedir
 amb la importació de les contribucions.
 
-!!! info
+!!! info "Info"
     Només es poden importar contribucions de contactes del mateix tipus. És a dir,
     si volem importar contribucions de persones i organitzacions ho haurem de fer en
     dos importacions diferents i per tant també amb dos fitxers diferents, un per les
