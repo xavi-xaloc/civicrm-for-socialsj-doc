@@ -96,8 +96,15 @@ amb la importació de les contribucions.
 > Vegeu [CiviCRM - Guia de l'usuari > Fluxos de treball comuns > Importació de dades
 en el CiviCRM](https://docs.civicrm.org/user/ca/latest/common-workflows/importing-data-into-civicrm/) per a més informació de com importar contribucions al CRM.
 
+### Registre d'un pagament d'una contribució pendent
 
-### Actualització d'estat de contribucions en bloc
+Per registrar un pagament d'una contribució pendent s'ha de fer mitjançant l'opció "Registra un pagament" (no s'ha
+d'editar la contribució).
+
+![Registre de pagament pendent](/captacio-de-fons/images/registre-pagament.png)
+
+
+### Registre de pagaments de contribucions en bloc
 
 Els pagaments de les contribucions de socis programades i registrades com a pendents
 es poden anar actualitzant a mesura que es vagin rebent. Normalment farem
@@ -108,7 +115,7 @@ bloc.
 
 Per fer-ho ens cal cercar les contribucions que volem actualitzar (per exemple les
 contribucions de **tipus financer** corresponent amb **data de recepció** 'El mes actual' i amb **estat de la contribució** 'Pendent') i utilitzar
-l'acció **Actualitza l'estat de les contribucions pendents**.
+l'acció **Registra pagaments de contribucions**.
 
 > Vegeu [CiviCRM - Guia de l'usuari > Contribucions > Cerca i visualització de contribucions](https://docs.civicrm.org/user/ca/latest/contributions/finding-and-viewing-contributions/) per a més informació de com actualitzar l'estat de les contribucions pendents.
 
