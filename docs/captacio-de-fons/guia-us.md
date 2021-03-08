@@ -98,10 +98,17 @@ en el CiviCRM](https://docs.civicrm.org/user/ca/latest/common-workflows/importin
 
 ### Registre d'un pagament d'una contribució pendent
 
-Per registrar un pagament d'una contribució pendent s'ha de fer mitjançant l'opció "Registra un pagament" (no s'ha
-d'editar la contribució).
+Per registrar un pagament d'una contribució pendent es pot fer
 
-![Registre de pagament pendent](/captacio-de-fons/images/registre-pagament.png)
+- o bé clicant a "més" en les opcions de la contribució
+
+![Registre de pagament pendent més opcions de contribució](/captacio-de-fons/images/registre-pagament-mes.png)
+
+- o bé desplegant la contribució i clicant a l'opció "Registra un pagament"
+
+![Registre de pagament pendent contribució desplegada](/captacio-de-fons/images/registre-pagament.png)
+
+No és aconsellable registrar el pagament editant la contribució i canviant l'estat a completada.
 
 
 ### Registre de pagaments de contribucions en bloc
