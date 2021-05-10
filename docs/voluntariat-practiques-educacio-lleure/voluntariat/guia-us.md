@@ -41,8 +41,8 @@ A través de l'informe :bar_chart: **Voluntaris pendents d'incorporar** podem fe
 Un cop la persona passa a formar part de l'equip de voluntariat de l'organització, es pot procedir a:
 
 * Afegir a la persona el tipus de contacte :bust_in_silhouette: **Voluntari** i consolidar dades de l'activitat *[Voluntariat] Sessió o Entrevista d'acollida i valoració* en els camps personalitzats del contacte com ara "*Perfil competencial*" i "*Perfil acadèmic i professional*".
-* Crear relació voluntariat entre el *Voluntari* i la *Organització*
-* Inscriure al voluntari si correspon a l'esdeveniment oportú amb el rol de participant "Voluntaris"
+* Crear relació voluntariat entre el *Voluntari* i la *Organització*.
+* Inscriure al voluntari si correspon a l'esdeveniment oportú amb el rol de participant `Voluntari`.
 
 ### Acompanyament
 
