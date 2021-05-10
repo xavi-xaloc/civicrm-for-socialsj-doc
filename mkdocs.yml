@@ -90,6 +90,9 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 google_analytics:
   - 'UA-117203563-1'
