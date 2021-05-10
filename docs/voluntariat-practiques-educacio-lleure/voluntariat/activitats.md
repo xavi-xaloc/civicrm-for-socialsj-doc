@@ -1,12 +1,10 @@
 # Activitats
 
-Crearem dos tipus d'activitats noves per registrar en un primer moment el contacte d'una persona que mostra interès en ser voluntària de l'organització i, en un segon moment, l'entrevista prèvia amb la persona interessada que ha de servir per poder-ne valorar la incorporació com a voluntària. Les identificarem com a «[Voluntariat] Persona interessada» i «[Voluntariat] Entrevista d'acollida i valoració» respectivament.
-
 ## [Voluntariat] Persona interessada
 
 ### Descripció
 
-Primer contacte d'una persona amb interès d'establir una col·laboració de voluntariat amb l'organització .
+Primer contacte d'una persona amb interès d'establir una col·laboració de voluntariat amb l'organització.
 
 ### Camps personalitzats - Interès en voluntariat
 
@@ -20,7 +18,7 @@ Primer contacte d'una persona amb interès d'establir una col·laboració de vol
 
 * **Com ens has conegut?**
 
-    Selecció múltiple - Amic, familiar o conegut vinculat amb l'organització; Amic, familiar o conegut NO vinculat amb l'organització; Derivació des d'una altra organització; Web i/o xarxes socials; Mitjans de comunicació; Cursos, xerrades o similars; Altres
+    Selecció múltiple - `Amic, familiar o conegut vinculat amb l'organització`; `Amic, familiar o conegut NO vinculat amb l'organització`; `Derivació des d'una altra organització`; `Web i/o xarxes socials`; `Mitjans de comunicació; Cursos, xerrades o similars`; `Altres`
 
 * **Motivació, expectatives i altres comentaris**
 
@@ -28,17 +26,17 @@ Primer contacte d'una persona amb interès d'establir una col·laboració de vol
 
 ### Estats
 
-«Pendent de revisar» i «Completat»
+`Pendent de revisar`, `Pendent de contactar`, `Completat` i `Obsolet`
 
-Quan es rep la sol·licitud de voluntariat a través del formulari web, l'estat de l'activitat es posa com a «Pendent de revisar». Un cop el responsable d'acollida revisa l'activitat marca l'estat com a «Completat» i pot programar, si s'escau, la següent activitat de «[Voluntariat] Entrevista d'acollida i valoració».
+Quan es rep la sol·licitud de voluntariat a través del formulari web, l'estat de l'activitat es posa com a `Pendent de revisar`. Un cop el responsable d'acollida revisa l'activitat pot canviar-la com a `Pendent de contactar` o com que en general es contactarà en el mateix moment es podrà marcar l'estat com a `Completat`.
 
-## [Voluntariat] Entrevista d'acollida i valoració
+## [Voluntariat] Sessió o Entrevista d'acollida i valoració
 
 ### Descripció
 
-Entrevista amb una persona interessada en col·laborar com a voluntari de l'organització i valoració del seu resultat.
+Sessió o entrevista d'acollida amb una persona interessada en col·laborar com a voluntari de l'organització i valoració del seu resultat.
 
-### Camps personalitzats - Entrevista voluntariat
+### Camps personalitzats - Sessió/Entrevista voluntariat
 
 * **Com ens has conegut?** *
 
@@ -58,7 +56,7 @@ Entrevista amb una persona interessada en col·laborar com a voluntari de l'orga
 
     * Inactius: Abasta a les persones de 16 o més anys no classificades com ocupades o aturades durant la setmana de referència. Comprèn les següents categories: Persones que s'ocupen de la seva llar, estudiants, jubilats o retirats, altres pensionistes, incapacitats per treballar i altres situacions.
 
-    Selecció - Ocupat; Aturat; Inactiu.
+    Selecció - `Ocupat`; `Aturat`; `Inactiu`.
 
 * **Observacions situació laboral**
 
@@ -84,7 +82,7 @@ Entrevista amb una persona interessada en col·laborar com a voluntari de l'orga
 
 * **Valoració de l'entrevista** - Acord arribat amb la persona en finalitzar l'entrevista.
 
-    Selecció - Incorporació immediata; Pendent d'incorporació; No es preveu la incorporació.
+    Selecció - `Incorporació immediata`; `Pendent d'incorporació`; `No es preveu la incorporació`.
 
 * **Valoració de l'entrevista (observacions)**
 
@@ -96,9 +94,9 @@ Entrevista amb una persona interessada en col·laborar com a voluntari de l'orga
 
 ### Estats
 
-«Programat», «Pendent de revisar» i «Completat»
+`Programat`, `Pendent de revisar` i `Completat`
 
-Quan es concerta l'entrevista l'estat de l'activitat es posa com a «Programat». Un cop s'ha dut a terme l'entrevista es deixa l'estat de l'activitat com a «Pendent de revisar» si és que cal fer-ne un seguiment o la persona està pendent encara d'incorporar-se com a voluntària. L'estat «Completat» es reserva per quan la persona ja s'ha incorporat com a voluntària o bé quan no es preveu la seva incorporació.
+Quan es concerta l'entrevista l'estat de l'activitat es posa com a `Programat`. Un cop s'ha dut a terme l'entrevista es deixa l'estat de l'activitat com a `Pendent de revisar` si és que cal fer-ne un seguiment o la persona està pendent encara d'incorporar-se com a voluntària. L'estat `Completat` es reserva per quan la persona ja s'ha incorporat com a voluntària o bé quan no es preveu la seva incorporació.
 
 
 ## [Voluntariat] Registre de seguiment a voluntaris
@@ -111,7 +109,7 @@ Registre d'una activitat de seguiment a una persona voluntària.
 
 - **Modalitat**
 
-    Selecció - Presencial; Trucada; Correu electrònic; Altres
+    Selecció - `Presencial`; `Trucada`; `Correu electrònic`; `Altres`
 
 - **Convocant** - Persona qui convoca el seguiment
 
@@ -132,4 +130,4 @@ Registre d'una activitat de seguiment a una persona voluntària.
 
 ### Estats
 
-«Completat»
+`Completat`
