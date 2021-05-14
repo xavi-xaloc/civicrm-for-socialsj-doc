@@ -22,18 +22,23 @@ Definirem una jerarquia de grups que ens ajudi a segmentar els contactes de volu
 
     * **Interessats en voluntariat pendents de contactar/benvinguda** (grup intel·ligent)
 
-        Criteri del grup – La persona té una activitat «[Voluntariat] Persona interessada» amb estat de l'activitat com a «Pendent de revisar» o «Pendent de contactar».
+        Criteri del grup – La persona té una activitat "[Voluntariat] Persona interessada" amb estat de l'activitat com a `Pendent de revisar` o `Pendent de contactar`.
 
     * **Interessats en voluntariat pendents d'incorporar** (grup intel·ligent)
 
-        Criteri del grup – La persona té una activitat «[Voluntariat] Sessió o Entrevista d'acollida i valoració» amb estat de l'activitat com a «Pendent de revisar».
+        Criteri del grup – La persona té una activitat "[Voluntariat] Sessió o Entrevista d'acollida i valoració" amb estat de l'activitat com a `Pendent de revisar`.
 
     * **Interessats en voluntariat (no voluntaris)** (grup intel·ligent)
 
-        Criteri del grup – La persona té una activitat «[Voluntariat] Persona interessada» amb estat de l'activitat com a «Completada» i no ha arribat a ser voluntària de l'entitat (no té el subtipus de contacte Voluntari).
+        Criteri del grup – La persona té una activitat "[Voluntariat] Persona interessada" amb estat de l'activitat com a "Completada" i no ha arribat a ser voluntària de l'entitat (no té el subtipus de contacte Voluntari).
+
+    * **Persones amb entrevista o sessió d'acollida de voluntariat** (grup intel·ligent)
+
+        Criteri del grup – La persona té una activitat "[Voluntariat] Sessió o Entrevista d'acollida i valoració".
 
     * **Interessats en voluntariat (no voluntaris) sense activitat acollida** (grup intel·ligent)
-        Criteri del grup – Persones que es troben en el grup "Interessats en voluntariat (no voluntaris)" però no en el grup "Interessats en voluntariat sense activitat "[Voluntariat] Sessió o Entrevista d'acollida i valoració"
+
+        Criteri del grup – Persones que es troben en el grup "Interessats en voluntariat (no voluntaris)" però no en el grup "Persones amb entrevista o sessió d'acollida de voluntariat"
 
 
 * **\# per a cada grup corresponent a un programa de l'organització**
