@@ -4,7 +4,7 @@ site_author: 'Francesc Bassas i Bullich'
 site_url: http://docs.crm.socialsj.cat
 repo_url: https://github.com/babu-cat/civicrm-for-socialsj-doc
 
-pages:
+nav:
 - Introducció: 'index.md'
 - CiviCRM:
     - 'Què és CiviCRM': 'civicrm/index.md'
@@ -14,6 +14,8 @@ pages:
     - 'Grups': 'civicrm/grups.md'
     - 'Permisos': 'civicrm/permisos.md'
     - 'Contribucions': 'civicrm/contribucions.md'
+    - 'Processos habituals':
+        - 'Combinació de contactes': 'civicrm/processos-habituals/combinacio-contactes.md'
     - 'Preguntes més freqüents': 'civicrm/preguntes-mes-frequents.md'
     - "Annex: Llistat d'idiomes": 'civicrm/annex-idiomes.md'
 - Infància:
@@ -94,6 +96,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-google_analytics:
-  - 'UA-117203563-1'
-  - 'auto'
+extra:
+  analytics:
+    provider: google
+    property: 'UA-117203563-1'
