@@ -16,6 +16,8 @@ Rol **tècnic voluntariat i pràctiques** El tècnic voluntariat i pràctiques, 
 | CiviCRM: accedeix a camps de contactes de referència |     :ballot_box_with_check:     |
 | CiviEvent: access CiviEvent                          |     :ballot_box_with_check:     |
 | CiviEvent: edit event participants                   |     :ballot_box_with_check:     |
+| CiviMail: accedeix a CiviMail                        |     :ballot_box_with_check:     |
+| CiviMail: delete in CiviMail                         |     :ballot_box_with_check:     |
 | CiviReport: access CiviReport                        |     :ballot_box_with_check:     |
 | CiviReport: access Report Criteria                   |     :ballot_box_with_check:     |
 | CiviReport: save Report Criteria                     |     :ballot_box_with_check:     |
