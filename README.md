@@ -9,6 +9,7 @@ La documentació està construïda mitjançant [MkDocs](http://www.mkdocs.org/),
 Instal·lar MkDocs i Mkdocs Material per poder compilar el projecte.
 
 `pip3 install mkdocs`
+
 `pip3 install mkdocs-material`
 
 ## Build
