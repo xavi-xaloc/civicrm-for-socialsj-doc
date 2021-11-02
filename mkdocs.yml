@@ -36,6 +36,8 @@ nav:
     - 'Activitats': 'adults/activitats.md'
     - 'Parella lingüística':
        - 'Relacions': 'adults/parella-linguistica/relacions.md'
+- Atenció social:
+    - 'Activitats': 'atencio-social/activitats.md'
 - Voluntariat, pràctiques i educació en el lleure:
     - 'Introducció': 'voluntariat-practiques-educacio-lleure/index.md'
     - 'Voluntariat':
