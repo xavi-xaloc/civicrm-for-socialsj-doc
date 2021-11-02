@@ -31,6 +31,10 @@ mòdul Xarxa d'Hospitalitat.
 
 Llar implicada en l'acollida de persones migrants.
 
+#### Espai comunitari
+
+Espai implicat en l'acollida de persones migrants.
+
 ## Activitats
 
 ### [Xarxa Hospitalitat] Família interessada
