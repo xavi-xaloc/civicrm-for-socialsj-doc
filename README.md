@@ -12,14 +12,20 @@ Instal·lar MkDocs i Mkdocs Material per poder compilar el projecte.
 
 `pip3 install mkdocs-material`
 
-## Build
+## Desenvolupament
 
-Per tal de generar la documentació en HTML tan sols cal llançar la següent ordre:
+Es pot treballar i consultar una versió local de la documentació executant la següent ordre:
+
+    mkdocs serve
+
+## Generació
+
+Per tal de generar la documentació en HTML tan sols cal executar la següent ordre:
 
     mkdocs build --clean
 
-## Deploy
+## Desplegament
 
-Per tal de desplegar la documentació a GitHub Pages tan sols cal llançar la següent ordre:
+Per tal de desplegar la documentació a GitHub Pages tan sols cal executar la següent ordre:
 
     mkdocs gh-deploy

@@ -65,7 +65,8 @@ nav:
     - "Conceptes clau": 'captacio-de-fons/conceptes-clau.md'
     - "StockCrowd (EN DESENVOLUPAMENT)": 'captacio-de-fons/stockcrowd.md'
 - Banc d'Aliments:
-    - 'Introducció': 'banc-aliments/index.md'
+    - "Guia d'ús": 'banc-aliments/guia-us.md'
+    - 'Definició': 'banc-aliments/definicio.md'
 - Gent gran:
     - 'Introducció': 'gent-gran/index.md'
 - CIE:
