@@ -59,4 +59,4 @@ Conjunt de camps personalitzats: [Recollida d'aliments/targeta](#recollida-dalim
 
 | Camp              | Descripció                | Tipus de camp          |
 |:------------------|:--------------------------|:-----------------------|
-| Punt de recollida | Organització on es realitza l’entrega corresponent a la derivació del Banc d'Aliments.  | Contacte de referència<br>*(de tipus Organització)* |
+| Centre que deriva | Organització resposable de la derivació del Banc d'Aliments.  | Contacte de referència<br>*(de tipus Organització)* |
