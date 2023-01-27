@@ -78,7 +78,7 @@ Per importar les contribucions ens caldrà un fitxer CSV amb les següents colum
 
 - **Identificador del contacte**
 - **Import total**
-- **Data de recepció**
+- **Data de recepció** - format dd-mm-YYYY o dd/mm/YYYY (en la importació posterior caldrà especificar el format escollit)
 - **Estat de la contribució** - valors possibles: *Completed* i *Pending*
 - **Tipus financer** - valor per defecte: *El tipus financer corresponent tal com apareix al CRM*
 - **Mètode de pagament** - valor per defecte: *El nom del mètode de pagament corresponent (normalment de tipus domiciliació) tal com apareix al CRM*
