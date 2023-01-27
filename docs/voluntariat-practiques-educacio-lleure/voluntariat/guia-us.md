@@ -4,7 +4,7 @@ Distingirem dos tipus de voluntariat:
 
 - **Voluntariat recurrent**: És el voluntariat que requereix de la persona un compromís prolongat en el temps i en general vinculat a un programa o activitat de l'entitat. Aquest tipus de voluntariat el definirem mitjançant una relació de voluntariat entre la persona i l'entitat. També es podrà (si es desitja o si pertoca) inscriure a la persona amb el rol de voluntari a l'esdeveniment o esdeveniments dels quals participi.
 
-- **Voluntariat puntual**: És el voluntariat que es fa en una acció puntual i que requereix normalment d'un compromís d'un dia i unes hores per part de la persona voluntària. Aquest tipus de voluntariat el definirem mitjançant la inscripció de la persona com a voluntari en l'esdeveniment (activitat) en qüestió.
+- **Voluntariat puntual**: És el voluntariat que es fa en una acció puntual i que requereix normalment d'un compromís d'un dia i unes hores per part de la persona voluntària. Aquest tipus de voluntariat el definirem mitjançant la inscripció de la persona com a voluntari en l'esdeveniment (activitat) en qüestió. A diferència dels voluntaris recurrents, el voluntariat puntual no tindrà una relació de voluntariat creada.
 
 ## Etapes de voluntariat recurrent
 

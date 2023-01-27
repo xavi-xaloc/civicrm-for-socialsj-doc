@@ -8,17 +8,14 @@ Definirem una jerarquia de grups que ens ajudi a segmentar els contactes de volu
 
         Criteri del grup – Existeix almenys una relació activa de voluntariat entre el voluntari i l'organització.
 
-    * **Voluntaris – puntuals (últim any)** (grup intel·ligent)
+    * **Voluntariat – puntual** (grup intel·ligent)
 
-        Criteri del grup – Persones que han participat com a voluntaris a esdeveniments de l'entitat en els últims 12 mesos.
+        Criteri del grup – Persones que han participat com a voluntaris a esdeveniments de l'entitat sense tenir o haver tingut cap relació de voluntariat activa.
 
     * **Voluntaris – històric** (grup intel·ligent)
 
         Criteri del grup – No existeix cap relació activa i existeix almenys una relació inactiva de voluntariat entre el voluntari i l'organització.
 
-    * **Voluntaris – puntuals (fa més d'un any)** (grup intel·ligent)
-
-        Criteri del grup – Persones que han participat com a voluntaris a esdeveniments de l'entitat ja fa més de 12 mesos.
 
     * **Interessats en voluntariat pendents de contactar/benvinguda** (grup intel·ligent)
 
