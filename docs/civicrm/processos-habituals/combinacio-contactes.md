@@ -2,7 +2,7 @@
 
 El CRM pot tenir contactes duplicats per diversos motius però aquesta circumstància es dona principalment per l'entrada de nous contactes a través de formularis (donatius, butlletí, etc.) i per la falta de verificació prèvia de l'existència d'un contacte abans de crear-lo.
 
-Per fer una revisió a fons de possibles contactes duplicats, el CRM ofereix una **eina de desdupicació**. S'hi pot accedir a través del menú **Contactes > Cerca i combina contactes duplicats**.
+Per fer una revisió a fons de possibles contactes duplicats, el CRM ofereix una **eina de desduplicació**. S'hi pot accedir a través del menú **Contactes > Cerca i combina contactes duplicats**.
 
 En canvi si fem una comprovació de duplicats més específica, persona a persona, aleshores ho farem des dels **resultats d'una cerca**, seleccionant els contactes a combinar i clicant a l'acció **Combina contactes duplicats**.
 
