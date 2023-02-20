@@ -12,7 +12,7 @@ En canvi si fem una comprovació de duplicats més específica, persona a person
 
     - En general sempre considerarem com a **contacte original aquell que tingui l'identificador de contacte de CRM més baix**. Aquest serà el contacte que es conservarà. Abans de fer cap combinació haurem de verificar que és així. En cas contrari intercanviarem les posicions del contacte original i el duplicat.
 
-    - No sobreescriurem el camp Origen (del contacte) i per tant desmarcarem la casella que per defecte queda seleccionada. En general sempre voldrem conservar des de quin mitjà ha entrat a la nostra base de dades el contacte.
+    - No sobreescriurem el camp **Origen** (del contacte) i per tant desmarcarem la casella que per defecte queda seleccionada. En general sempre voldrem conservar des de quin mitjà ha entrat a la nostra base de dades el contacte.
 
     - Sempre que es pugui és recomanable **previsualitzar ambdós contactes**, p.ex. obrint-los en dues pestanyes noves per poder analitzar visualment cada un dels contactes.
 
