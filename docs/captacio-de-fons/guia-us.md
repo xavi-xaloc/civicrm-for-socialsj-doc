@@ -78,22 +78,22 @@ Per importar les contribucions ens caldrà un fitxer CSV amb les següents colum
 
 - **Identificador del contacte**
 - **Import total**
-- **Data de recepció** - format dd-mm-YYYY o dd/mm/YYYY (en la importació posterior caldrà especificar el format escollit)
-- **Estat de la contribució** - valors possibles: *Completed* i *Pending*
+- **Data de recepció** - format ```dd-mm-YYYY``` o ```dd/mm/YYYY``` (en la importació posterior caldrà especificar el format escollit)
+- **Estat de la contribució** - valors possibles: ```Completed``` i ```Pending```
 - **Tipus financer** - valor per defecte: *El tipus financer corresponent tal com apareix al CRM*
 - **Mètode de pagament** - valor per defecte: *El nom del mètode de pagament corresponent (normalment de tipus domiciliació) tal com apareix al CRM*
-- **És un pagament diferit** - valor per defecte: *1* (sí)
+- **És un pagament diferit** - valor per defecte: ```1``` (sí)
 
 Un cop tinguem el fitxer CSV amb les contribucions a importar ja podrem procedir
-amb la importació de les contribucions accedint-hi des del menú **Contribucions > Importació de contribucions**.
+amb la importació accedint-hi des del menú **Contribucions > Importació de contribucions**.
 
-En el primer pas **Carrega les dades** haurem de:
+En el primer pas "Carrega les dades" haurem de:
 
 1. Carregar el fitxer CSV com a **Fitxers de dades d'importació**
 2. Marcar que **La primera fila conté les capçaleres de les columnes**
-3. Marcar el **Tipus de contacte** com a Persona o Organització segons correspongui
-4. Seleccionar el **Mode d'importació: Afegir contribucions noves**
-5. Indicar el **Separador dels camps d'importació** que utilitza el fitxer CSV, normalment si s'ha generat amb Microsoft Excel serà amb ```;``` i si s'ha fet amb Libreoffice serà amb ```,```
+3. Marcar el **Tipus de contacte** com a ```Persona``` o ```Organització``` segons correspongui
+4. Seleccionar el **Mode d'importació** ```Afegir contribucions noves```
+5. Indicar el **Separador dels camps d'importació** que utilitza el fitxer CSV, normalment si s'ha generat amb Microsoft Excel serà amb ```;``` i si s'ha fet amb LibreOffice serà amb ```,```
 6. Seleccionar el **Format de data** utilitzat en el fitxer CSV
 
 !!! info "Info"
@@ -143,10 +143,10 @@ Per tal d'identificar tots aquells contactes que sense fer una aportació direct
 
 Des del contacte que fa l'aportació, crearem una nova contribució on especificarem almenys els següents camps:
 
-- **Tipus financer:** "Donatius en espècie"
+- **Tipus financer:** ```Donatius en espècie```
 - **Import** (el corresponent al valor de l'aportació)
-- **Estat de la contribució:** "Completat"
+- **Estat de la contribució:** ```Completat```
 - **Data de recepció**
-- **Mètode de pagament:** "En espècie"
+- **Mètode de pagament:** ```En espècie```
 - **Preferències fiscals** indicar (si es sap) si demana o no desgravar el donatiu
 - **Detalls agència tributària** indicar si no es vol declarar en el Model 182 l'aportació realitzada.
