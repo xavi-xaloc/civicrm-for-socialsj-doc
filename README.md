@@ -12,6 +12,12 @@ Instal·lar MkDocs i Mkdocs Material per poder compilar el projecte.
 
 `pip3 install mkdocs-material`
 
+o bé...
+
+`pipx install mkdocs`
+
+`pipx inject mkdocs mkdocs-material mkdocs-material-extensions mkdocs-macros-plugins pymdown-extensions`
+
 ## Desenvolupament
 
 Es pot treballar i consultar una versió local de la documentació executant la següent ordre:
